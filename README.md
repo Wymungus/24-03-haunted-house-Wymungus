@@ -11,4 +11,4 @@ You are casting a spell to conjure a haunted house to spook the invaders from Ye
 
 You will need to replace the screenshot below with a screenshot of your house, if you're going for the 100-point version, you will need to make it an animated gif
 
-![My house](/images/house.png)
+![My house](/images/house.gif)
